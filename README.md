@@ -6,10 +6,7 @@
 ![type definitions](https://img.shields.io/npm/types/typescript?style=flat-square)
 ![code style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)
 
-### ABOUT ME:
-Ha I am a distractive creator who can turn anything that I dream of into reality and I love to create complex projects based on machine learning and cryptography and highly aesthetic projects based on frontend framework 
 
-  *"If you want to create something then do not hesitate to destroy"*
 
 <picture>
   <source
