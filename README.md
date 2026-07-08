@@ -32,7 +32,7 @@ Comfortable in the space between "prototype" and "production." Not comfortable s
 <br>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/VBS2004/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+<img src="https://raw.githubusercontent.com/VBS2004/VBS2004/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </div>
 
 <br>
