@@ -12,15 +12,51 @@
 
 <br>
 
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" alt="divider" />
+
+<br>
+
 I build things that make computers do the annoying parts of work for us — code generation, product research, video editing — and ship them faster than I probably should. Currently splitting time between AI infra at scale, two startups still finding their shape, and a slow-burn habit of fixing bugs in repos I don't own.
 
 Comfortable in the space between "prototype" and "production." Not comfortable sitting still.
 
 <br>
 
+### right now
+
+Fine-tuning a 14B code model to write infrastructure-as-code that actually passes lint, security scans, and `terraform plan` on the first try — turns out "sounds right" and "is right" are very different bars when the output has to compile. Most of my week is somewhere between reward-shaping a GRPO run and staring at an OOM traceback wondering what I did to deserve this.
+
+When that gets too serious, I go argue with a RAG pipeline about which blender is objectively better, or find a bug in someone else's open-source repo and fix it uninvited.
+
+<br>
+
+### the stack
+
 <div align="center">
 <img src="https://skillicons.dev/icons?i=python,pytorch,java,go,react,flask,docker,aws,redis,mysql,git&theme=dark" />
 </div>
+
+<br>
+
+`LoRA` · `SFT` · `GRPO` · `hybrid retrieval` · `cross-encoder reranking` · `tree-sitter` · `RAG` · `XGBoost` · `LightGBM` · `AWS (S3, RDS, Lambda, ECR)`
+
+<br>
+
+### currently breaking (and fixing)
+
+A running list of things I've poked at outside of work hours:
+
+- fine-tuning models on hardware that was not built for fine-tuning models (RTX 3050, send help)
+- a multi-agent product-research tool that argues with itself before giving you an answer
+- someone else's `subprocess` matching logic that quietly matched the wrong PIDs — filed the PR, added the regression tests, moved on
+- a personal EDR built on raw ETW telemetry, because watching syscalls fly by is a surprisingly good way to relax
+- a short-form video tool that taught me more about DNSSEC than any of my CS courses did
+
+<br>
+
+### off the clock
+
+Mechanical keyboards, decent fragrances, and cricket — not always in that order of importance. I read changelogs the way other people read the news.
 
 <br>
 
@@ -36,6 +72,8 @@ Comfortable in the space between "prototype" and "production." Not comfortable s
 </div>
 
 <br>
+
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" alt="divider" />
 
 <div align="center">
 
