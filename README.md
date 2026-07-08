@@ -56,7 +56,7 @@ A running list of things I've poked at outside of work hours:
 
 ### off the clock
 
-Mechanical keyboards, decent fragrances, and cricket — not always in that order of importance. I read changelogs the way other people read the news.
+Mechanical keyboards, forza, and open-world games — not always in that order of importance. I read changelogs the way other people read the news.
 
 <br>
 
