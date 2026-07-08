@@ -25,8 +25,8 @@ Comfortable in the space between "prototype" and "production." Not comfortable s
 <br>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=VBS2004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366F1&icon_color=6366F1" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VBS2004&theme=tokyonight&hide_border=true&background=0d1117&ring=6366F1&fire=6366F1" height="165" />
+<img src="./generated/overview.svg#gh-dark-mode-only" height="165" />
+<img src="./generated/languages.svg#gh-dark-mode-only" height="165" />
 </div>
 
 <br>
