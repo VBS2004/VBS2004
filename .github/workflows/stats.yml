@@ -1,0 +1,21 @@
+name: generate stats images
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # once a day
+  workflow_dispatch: {}    # manual trigger from the Actions tab
+
+jobs:
+  generate-images:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - name: generate stats images
+        uses: jstrieb/github-stats@master
+        with:
+          username: ${{ github.repository_owner }}
+          exclude_repos: ""
+          exclude_langs: ""
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
