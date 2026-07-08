@@ -6,7 +6,7 @@
 
 [![Portfolio](https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://venkat-balaji-s.vercel.app/)
 [![Mail](https://img.shields.io/badge/mail-6366F1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:venkatbalaji2004@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkat-balaji-s/)
 
 </div>
 
