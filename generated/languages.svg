@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="180" viewBox="0 0 340 180">
+  <rect width="340" height="180" rx="10" fill="#0d1117" stroke="#30363d"/>
+  <text x="20" y="24" fill="#6366F1" font-size="14" font-family="'JetBrains Mono', monospace" font-weight="700">Top Languages</text>
+  
+        <text x="20" y="40" fill="#9CA3AF" font-size="12" font-family="'JetBrains Mono', monospace">Jupyter Notebook</text>
+        <rect x="120" y="30" width="160" height="8" rx="4" fill="#21262d"/>
+        <rect x="120" y="30" width="95.1" height="8" rx="4" fill="#6366F1"/>
+        <text x="290" y="40" fill="#E5E7EB" font-size="11" font-family="'JetBrains Mono', monospace" text-anchor="end">59.4%</text>
+        <text x="20" y="68" fill="#9CA3AF" font-size="12" font-family="'JetBrains Mono', monospace">Python</text>
+        <rect x="120" y="58" width="160" height="8" rx="4" fill="#21262d"/>
+        <rect x="120" y="58" width="58.1" height="8" rx="4" fill="#818CF8"/>
+        <text x="290" y="68" fill="#E5E7EB" font-size="11" font-family="'JetBrains Mono', monospace" text-anchor="end">36.3%</text>
+        <text x="20" y="96" fill="#9CA3AF" font-size="12" font-family="'JetBrains Mono', monospace">Makefile</text>
+        <rect x="120" y="86" width="160" height="8" rx="4" fill="#21262d"/>
+        <rect x="120" y="86" width="5.0" height="8" rx="4" fill="#A5B4FC"/>
+        <text x="290" y="96" fill="#E5E7EB" font-size="11" font-family="'JetBrains Mono', monospace" text-anchor="end">3.1%</text>
+        <text x="20" y="124" fill="#9CA3AF" font-size="12" font-family="'JetBrains Mono', monospace">JavaScript</text>
+        <rect x="120" y="114" width="160" height="8" rx="4" fill="#21262d"/>
+        <rect x="120" y="114" width="2.0" height="8" rx="4" fill="#C7D2FE"/>
+        <text x="290" y="124" fill="#E5E7EB" font-size="11" font-family="'JetBrains Mono', monospace" text-anchor="end">0.6%</text>
+        <text x="20" y="152" fill="#9CA3AF" font-size="12" font-family="'JetBrains Mono', monospace">C</text>
+        <rect x="120" y="142" width="160" height="8" rx="4" fill="#21262d"/>
+        <rect x="120" y="142" width="2.0" height="8" rx="4" fill="#E0E7FF"/>
+        <text x="290" y="152" fill="#E5E7EB" font-size="11" font-family="'JetBrains Mono', monospace" text-anchor="end">0.5%</text>
+</svg>
