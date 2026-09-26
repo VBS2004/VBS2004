@@ -4,15 +4,15 @@
   
         <text x="20" y="40" fill="#9CA3AF" font-size="12" font-family="'JetBrains Mono', monospace">Jupyter Notebook</text>
         <rect x="120" y="30" width="160" height="8" rx="4" fill="#21262d"/>
-        <rect x="120" y="30" width="94.6" height="8" rx="4" fill="#6366F1"/>
-        <text x="290" y="40" fill="#E5E7EB" font-size="11" font-family="'JetBrains Mono', monospace" text-anchor="end">59.1%</text>
+        <rect x="120" y="30" width="94.2" height="8" rx="4" fill="#6366F1"/>
+        <text x="290" y="40" fill="#E5E7EB" font-size="11" font-family="'JetBrains Mono', monospace" text-anchor="end">58.9%</text>
         <text x="20" y="68" fill="#9CA3AF" font-size="12" font-family="'JetBrains Mono', monospace">Python</text>
         <rect x="120" y="58" width="160" height="8" rx="4" fill="#21262d"/>
-        <rect x="120" y="58" width="58.7" height="8" rx="4" fill="#818CF8"/>
-        <text x="290" y="68" fill="#E5E7EB" font-size="11" font-family="'JetBrains Mono', monospace" text-anchor="end">36.7%</text>
+        <rect x="120" y="58" width="59.1" height="8" rx="4" fill="#818CF8"/>
+        <text x="290" y="68" fill="#E5E7EB" font-size="11" font-family="'JetBrains Mono', monospace" text-anchor="end">36.9%</text>
         <text x="20" y="96" fill="#9CA3AF" font-size="12" font-family="'JetBrains Mono', monospace">Makefile</text>
         <rect x="120" y="86" width="160" height="8" rx="4" fill="#21262d"/>
-        <rect x="120" y="86" width="5.0" height="8" rx="4" fill="#A5B4FC"/>
+        <rect x="120" y="86" width="4.9" height="8" rx="4" fill="#A5B4FC"/>
         <text x="290" y="96" fill="#E5E7EB" font-size="11" font-family="'JetBrains Mono', monospace" text-anchor="end">3.1%</text>
         <text x="20" y="124" fill="#9CA3AF" font-size="12" font-family="'JetBrains Mono', monospace">JavaScript</text>
         <rect x="120" y="114" width="160" height="8" rx="4" fill="#21262d"/>
