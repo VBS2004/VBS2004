@@ -1,0 +1,34 @@
+name: build profile card
+
+on:
+  schedule:
+    - cron: "30 0 * * *"   # once a day, after the stats job
+  workflow_dispatch: {}
+  push:
+    branches:
+      - main
+    paths:
+      - card/**
+
+permissions:
+  contents: write
+
+jobs:
+  build-card:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: build dark_mode.svg and light_mode.svg
+        run: python3 card/build.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: commit card
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add dark_mode.svg light_mode.svg
+          git commit -m "update profile card" || echo "no changes to commit"
+          git pull --rebase
+          git push
