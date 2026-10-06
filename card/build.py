@@ -117,7 +117,7 @@ def lines(stats):
         kv("Host", "IDFC FIRST Bank"),
         kv("Kernel", "Application Engineer"),
         kv("Previous", "AlgoAnalytics, Samsung PRISM"),
-        kv("GPU", "RTX 3050, 4 GB (send help)"),
+        kv("GPU", "RTX 3050 4GB, GTX 1650 4GB (send help)"),
         kv("IDE", "VS Code, Zed, Neovim"),
         [("dots", ".")],
         kv("Languages.Code", "Python, Go, Java, JavaScript"),

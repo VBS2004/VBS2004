@@ -38,7 +38,7 @@ text,tspan{white-space:pre}
 <tspan x="450" y="98"><tspan class="dots">. </tspan><tspan class="key">Host</tspan>:<tspan class="dots"> ................................. </tspan><tspan class="value">IDFC FIRST Bank</tspan></tspan>
 <tspan x="450" y="118"><tspan class="dots">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="dots"> .......................... </tspan><tspan class="value">Application Engineer</tspan></tspan>
 <tspan x="450" y="138"><tspan class="dots">. </tspan><tspan class="key">Previous</tspan>:<tspan class="dots"> ................ </tspan><tspan class="value">AlgoAnalytics, Samsung PRISM</tspan></tspan>
-<tspan x="450" y="158"><tspan class="dots">. </tspan><tspan class="key">GPU</tspan>:<tspan class="dots"> ....................... </tspan><tspan class="value">RTX 3050, 4 GB (send help)</tspan></tspan>
+<tspan x="450" y="158"><tspan class="dots">. </tspan><tspan class="key">GPU</tspan>:<tspan class="dots"> ........... </tspan><tspan class="value">RTX 3050 4GB, GTX 1650 4GB (send help)</tspan></tspan>
 <tspan x="450" y="178"><tspan class="dots">. </tspan><tspan class="key">IDE</tspan>:<tspan class="dots"> ............................. </tspan><tspan class="value">VS Code, Zed, Neovim</tspan></tspan>
 <tspan x="450" y="198"><tspan class="dots">.</tspan></tspan>
 <tspan x="450" y="218"><tspan class="dots">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Code</tspan>:<tspan class="dots"> .......... </tspan><tspan class="value">Python, Go, Java, JavaScript</tspan></tspan>
@@ -56,7 +56,7 @@ text,tspan{white-space:pre}
 <tspan x="450" y="458"><tspan class="dots">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="dots"> ............................. </tspan><tspan class="value">venkat-balaji-s</tspan></tspan>
 <tspan x="450" y="478"></tspan>
 <tspan x="450" y="498">- GitHub Stats<tspan class="dots"> ——————————————————————————————————————————</tspan></tspan>
-<tspan x="450" y="518"><tspan class="dots">. </tspan><tspan class="key">Repos</tspan>: <tspan class="value">35</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value">3</tspan>}<tspan class="dots"> .................. </tspan><tspan class="key">Stars</tspan>: <tspan class="value">10</tspan></tspan>
+<tspan x="450" y="518"><tspan class="dots">. </tspan><tspan class="key">Repos</tspan>: <tspan class="value">35</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value">4</tspan>}<tspan class="dots"> .................. </tspan><tspan class="key">Stars</tspan>: <tspan class="value">10</tspan></tspan>
 <tspan x="450" y="538"><tspan class="dots">. </tspan><tspan class="key">Commits</tspan>: <tspan class="value">263</tspan><tspan class="dots"> (past year)</tspan><tspan class="dots"> ................. </tspan><tspan class="key">Followers</tspan>: <tspan class="value">5</tspan></tspan>
 </text>
 <line x1="24" y1="552" x2="976" y2="552" stroke="#8C959F" stroke-dasharray="4 4"/>
