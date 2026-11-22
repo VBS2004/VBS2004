@@ -4,8 +4,8 @@
   
         <text x="20" y="40" fill="#9CA3AF" font-size="12" font-family="'JetBrains Mono', monospace">Jupyter Notebook</text>
         <rect x="120" y="30" width="160" height="8" rx="4" fill="#21262d"/>
-        <rect x="120" y="30" width="93.6" height="8" rx="4" fill="#6366F1"/>
-        <text x="290" y="40" fill="#E5E7EB" font-size="11" font-family="'JetBrains Mono', monospace" text-anchor="end">58.5%</text>
+        <rect x="120" y="30" width="93.5" height="8" rx="4" fill="#6366F1"/>
+        <text x="290" y="40" fill="#E5E7EB" font-size="11" font-family="'JetBrains Mono', monospace" text-anchor="end">58.4%</text>
         <text x="20" y="68" fill="#9CA3AF" font-size="12" font-family="'JetBrains Mono', monospace">Python</text>
         <rect x="120" y="58" width="160" height="8" rx="4" fill="#21262d"/>
         <rect x="120" y="58" width="59.7" height="8" rx="4" fill="#818CF8"/>
@@ -17,7 +17,7 @@
         <text x="20" y="124" fill="#9CA3AF" font-size="12" font-family="'JetBrains Mono', monospace">JavaScript</text>
         <rect x="120" y="114" width="160" height="8" rx="4" fill="#21262d"/>
         <rect x="120" y="114" width="2.0" height="8" rx="4" fill="#C7D2FE"/>
-        <text x="290" y="124" fill="#E5E7EB" font-size="11" font-family="'JetBrains Mono', monospace" text-anchor="end">0.6%</text>
+        <text x="290" y="124" fill="#E5E7EB" font-size="11" font-family="'JetBrains Mono', monospace" text-anchor="end">0.7%</text>
         <text x="20" y="152" fill="#9CA3AF" font-size="12" font-family="'JetBrains Mono', monospace">C</text>
         <rect x="120" y="142" width="160" height="8" rx="4" fill="#21262d"/>
         <rect x="120" y="142" width="2.0" height="8" rx="4" fill="#E0E7FF"/>
