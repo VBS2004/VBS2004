@@ -5,9 +5,9 @@
         <text x="20" y="40" fill="#9CA3AF" font-size="13" font-family="'JetBrains Mono', monospace">Public Repos</text>
         <text x="320" y="40" fill="#E5E7EB" font-size="13" font-family="'JetBrains Mono', monospace" text-anchor="end" font-weight="600">38</text>
         <text x="20" y="74" fill="#9CA3AF" font-size="13" font-family="'JetBrains Mono', monospace">Total Stars</text>
-        <text x="320" y="74" fill="#E5E7EB" font-size="13" font-family="'JetBrains Mono', monospace" text-anchor="end" font-weight="600">26</text>
+        <text x="320" y="74" fill="#E5E7EB" font-size="13" font-family="'JetBrains Mono', monospace" text-anchor="end" font-weight="600">28</text>
         <text x="20" y="108" fill="#9CA3AF" font-size="13" font-family="'JetBrains Mono', monospace">Total Forks</text>
-        <text x="320" y="108" fill="#E5E7EB" font-size="13" font-family="'JetBrains Mono', monospace" text-anchor="end" font-weight="600">1</text>
+        <text x="320" y="108" fill="#E5E7EB" font-size="13" font-family="'JetBrains Mono', monospace" text-anchor="end" font-weight="600">2</text>
         <text x="20" y="142" fill="#9CA3AF" font-size="13" font-family="'JetBrains Mono', monospace">Followers</text>
         <text x="320" y="142" fill="#E5E7EB" font-size="13" font-family="'JetBrains Mono', monospace" text-anchor="end" font-weight="600">5</text>
 </svg>
